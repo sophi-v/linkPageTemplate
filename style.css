@@ -7,6 +7,67 @@ body {
     align-items: center;
 }
 
+
 button {
-    width: 200px;
+    width: 300px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    font-size:30px;
+    font-family: Georgia;
+}
+
+.rectangle {
+    border: 2px solid black;
+    padding: 10px;
+    width: 600px;
+    height: 200px;
+    margin: auto;
+    text-align: left;
+    font-size: 15px;
+    border-radius: 20px;
+    background-color: #FCE4EC;
+    margin-bottom: 30px;
+}
+
+h0 {
+    font-size:50px;
+    font-weight: bold;
+
+  }
+  
+h2 {
+    font-weight: bold;
+    font-size:40px;
+  }
+
+#usual-act td {
+    font-size: 35px; 
+    margin-bottom: 30px;
+    padding-bottom: 20px; 
+      }
+#content1 img {
+        margin-top: 25px; 
+  }
+
+h3 {
+    font-weight: bold;
+    font-size:40px;
+  }
+
+#beauty-act td {
+    font-size: 35px; 
+    margin-bottom: 30px;
+    padding-bottom: 20px; 
+    margin-top: 25px; 
+  }
+
+h5 {
+    font-size:35px;
+    margin-top: 6px;
+    margin-bottom: 5px;
+}
+
+img#picture {
+    width: 80px;
+    height: auto;
 }
